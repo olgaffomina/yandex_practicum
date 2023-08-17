@@ -16,3 +16,8 @@
 | [Определение стоимости автомобилей](https://github.com/olgaffomina/yandex_practicum/tree/main/11_numerical_methods)                                                     | Построение модели для определения стоимости поддержанного автомобиля                                                                                                              | Pandas, Matplotlib , Seaborn, Numpy, Sklearn |
 | [ Прогнозирование заказов такси](https://github.com/olgaffomina/yandex_practicum/tree/main/12_time_series)                                                        | Построение модели для прогнозирования количества заказов такси на следующий час         | Pandas, Matplotlib, Numpy, Sklearn,  LightGBM, CatBoost|
 | [Определение токсичных комментариев](https://github.com/olgaffomina/yandex_practicum/tree/main/13_ml_for_text)                                                    | Создание модели машинного обучения для определения токсичности англоязычных комментариев | Pandas, Matplotlib, Seaborn, Numpy, nltk.tokenize, nltk.stem, Spacy, Sklearn, Lightgbm, Catboost|
+
+
+
+
+
